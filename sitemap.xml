@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://knarkkim.github.io/</loc>
-  <lastmod>2018-07-29T03:07:00Z</lastmod>
+  <lastmod>2018-07-29T03:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/2012/</loc>
@@ -35,11 +35,15 @@
  </url>
  <url>
   <loc>https://knarkkim.github.io/categories/</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/categories/blog/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/categories/cat_anything/</loc>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/categories/cat_nikola/</loc>
@@ -56,6 +60,10 @@
  <url>
   <loc>https://knarkkim.github.io/categories/python/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/categories/test/</loc>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/</loc>
@@ -87,11 +95,15 @@
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/categories/</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/categories/blog/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/en/categories/cat_anything/</loc>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/categories/cat_nikola/</loc>
@@ -108,6 +120,10 @@
  <url>
   <loc>https://knarkkim.github.io/en/categories/python/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/en/categories/test/</loc>
+  <lastmod>2018-07-29T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/galleries/</loc>

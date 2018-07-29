@@ -1,8 +1,8 @@
 .. title: Hello World!
 .. slug: hello-world
 .. date: 2018-07-29 12:01:29 UTC+09:00
-.. tags: 
-.. category: 
+.. tags: test
+.. category: anything
 .. link: 
 .. description: 
 .. type: text
