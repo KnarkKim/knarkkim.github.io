@@ -1,4 +1,0 @@
-Sitemap: https://knarkkim.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: knarkkim.github.io
