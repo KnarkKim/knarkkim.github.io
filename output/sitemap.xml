@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://knarkkim.github.io/</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/2012/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
  </url>
  <url>
+  <loc>https://knarkkim.github.io/2018/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://knarkkim.github.io/archive.html</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/authors/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/authors/knark/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/authors/roberto-alsina/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/categories/</loc>
@@ -43,15 +59,31 @@
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/2012/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
  </url>
  <url>
+  <loc>https://knarkkim.github.io/en/2018/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://knarkkim.github.io/en/archive.html</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/en/authors/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/en/authors/knark/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/en/authors/roberto-alsina/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/en/categories/</loc>
@@ -146,6 +178,10 @@
   <lastmod>2018-07-29T02:52:00Z</lastmod>
  </url>
  <url>
+  <loc>https://knarkkim.github.io/en/posts/hello-world/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://knarkkim.github.io/en/posts/welcome-to-nikola/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
  </url>
@@ -167,7 +203,7 @@
  </url>
  <url>
   <loc>https://knarkkim.github.io/listings/hello.py.html</loc>
-  <lastmod>2018-07-29T02:52:00Z</lastmod>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/pages/about-nikola/</loc>
@@ -228,6 +264,10 @@
  <url>
   <loc>https://knarkkim.github.io/pages/theming/</loc>
   <lastmod>2018-07-29T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knarkkim.github.io/posts/hello-world/</loc>
+  <lastmod>2018-07-29T03:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://knarkkim.github.io/posts/welcome-to-nikola/</loc>
